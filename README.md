@@ -26,11 +26,12 @@ O aplicativo permite que o usuário insira os preços do álcool e da gasolina e
 
 ## 📸 Screenshots
 ### Tela Inicial
-![Tela Inicial](imagem/Screenshot_20241112_192809.jpg)
-)
+![smartmockups_m3vnov4p](https://github.com/user-attachments/assets/1b1bc615-1f37-4121-aaf7-17db3d43deed)
+
 
 ### Resultado
-![Resultado](images/resultado.png)
+![smartmockups_m3vnurb9](https://github.com/user-attachments/assets/7a3763d7-b77e-43cb-8534-a5fcf79f017c)
+
 
 ## 🚀 Como Usar
 
