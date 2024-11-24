@@ -8,14 +8,16 @@
 </body>
 </html>
 
+## 📸 Screenshots
+### Tela Inicial
+![smartmockups_m3vnov4p](https://github.com/user-attachments/assets/1b1bc615-1f37-4121-aaf7-17db3d43deed)
+
 
 Um aplicativo Android para ajudar motoristas a decidirem qual combustível é mais vantajoso na hora de abastecer: **Álcool** ou **Gasolina**.
 
 ## 📱 Visão Geral do Projeto
 O aplicativo permite que o usuário insira os preços do álcool e da gasolina e, com base no cálculo, indica qual combustível é mais econômico.
 
-### Demonstração
-![Demo GIF](demo.gif)
 
 > **Nota**: A regra básica é que o álcool é mais vantajoso se o preço for inferior a 70% do valor da gasolina.
 
@@ -24,9 +26,6 @@ O aplicativo permite que o usuário insira os preços do álcool e da gasolina e
 - Cálculo e indicação do combustível mais econômico
 - Interface amigável e intuitiva
 
-## 📸 Screenshots
-### Tela Inicial
-![smartmockups_m3vnov4p](https://github.com/user-attachments/assets/1b1bc615-1f37-4121-aaf7-17db3d43deed)
 
 
 ### Resultado
